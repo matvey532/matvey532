@@ -4,7 +4,7 @@ Hi 👋 My name is Matvei Zhukov
 Data Analyst
 ------------
 
-I\`m learning data analysis at Hexlet online-school. I have learned SQL and and finished 1 project. Currently I\`m mastering Python and finishing my 2nd project.
+I\`m learning data analysis at Hexlet online-school. I have already learned SQL and finished 1 project. Currently I`m mastering Python and finishing my 2nd project.
 
 * 🌍  I'm based in Saint-Petersburg
 * ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com)
