@@ -1,4 +1,4 @@
-Hi 👋 My name is Matvei Zhukov
+Hi 👋 My name is Matvei
 ==============================
 
 Data Analyst
@@ -6,15 +6,24 @@ Data Analyst
 
 I\`m learning data analysis at Hexlet online-school. I have already learned SQL and finished 1 project. Currently I`m mastering Python and finishing my 2nd project.
 
-* 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com)
-* 🧠  I'm learning Data Analysis
+* 🌍  I'm based in Saint-Petersburg, Russia
+* 🖥️  See my portfolio at [My CV](https://cv.hexlet.io/ru/resumes/4024)
+* ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com) or in [Telegram](https://t.me/mat_zh):
+  
+* 🔭 Currently Exploring:
+  
+  * Data Analysis with SQL and Python
+  * Visualization with Preset and SuperSet
 
 ### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+
+* 📊 Google Sheets / Excel: Pivot tables, Visualization, Cumulative aggregation
+* 🛢️ SQL (Postgres): Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions
+* 📈 SuperSet, Preset: Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters
 
 ### Socials
 
