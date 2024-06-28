@@ -8,7 +8,6 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  See my portfolio at [My CV](https://cv.hexlet.io/ru/resumes/4024)
-* ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com) or via [Telegram](https://t.me/mat_zh)
 
 * 👨‍🎓 Education:
   * Data Analytics, Hexlet (since March 2024)
@@ -33,7 +32,3 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
 * 🛢️ SQL (Postgres): Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions
 * 🦫 DBeaver: Database connection, SQL querries, Creation of tables, Data download
 * 📈 SuperSet, Preset: Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filter
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/matvey532" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/matveizhukov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
