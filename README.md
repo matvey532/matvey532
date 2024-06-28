@@ -8,9 +8,9 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  See my portfolio at [My CV](https://cv.hexlet.io/ru/resumes/4024)
-* ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com) or in [Telegram](https://t.me/mat_zh):
+* ✉️  You can contact me at [matvey.zh.spb@gmail.com](mailto:matvey.zh.spb@gmail.com) or via [Telegram](https://t.me/mat_zh)
 
-* 👨‍🎓Education:
+* 👨‍🎓 Education:
   * Data Analytics, Hexlet (since March 2024)
   * International Economics, Master`s Degree, Saint-Petersburg State University of Econimics (2013-2019)
   
@@ -19,7 +19,7 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
   * Data Analysis with SQL and Python
   * Visualization with Preset and SuperSet
 
-* 🌐 Languages:
+* 🗣️ Languages:
   * Russian (native)
   * English (fluent)
 
