@@ -31,7 +31,8 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
 
 * 📊 Google Sheets / Excel: Pivot tables, Visualization, Cumulative aggregation
 * 🛢️ SQL (Postgres): Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions
-* 📈 SuperSet, Preset: Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters
+* 🦫 DBeaver: Database connection, SQL querries, Creation of tables, Data download
+* 📈 SuperSet, Preset: Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filter
 
 ### Socials
 
