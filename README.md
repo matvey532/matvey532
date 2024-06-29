@@ -15,7 +15,7 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
   
 * 🔭 Currently Exploring:
   
-  * Data Analysis with SQL and Python
+  * Data Analysis with Google Sheets, SQL, Python
   * Visualization with Preset and SuperSet
 
 * 🗣️ Languages:
