@@ -32,3 +32,4 @@ I\`m learning data analysis at Hexlet online-school. I have already learned SQL 
 * 🛢️ SQL (Postgres): Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions
 * 🦫 DBeaver: Database connection, SQL querries, Creation of tables, Data download
 * 📈 SuperSet, Preset: Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filter
+* 🐍 Python: Basic syntax
