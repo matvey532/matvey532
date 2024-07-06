@@ -4,7 +4,7 @@ Hi 👋 My name is Matvey
 Data Analyst
 ------------
 
-I\`m learning data analysis at Hexlet online-school. I have already learned SQL and finished 1 project. Currently I`m mastering Python and finishing my 2nd project. Open to work!
+I\`m learning data analysis at [Hexlet online-school](https://ru.hexlet.io/). I have already learned SQL and finished 1 project. Currently I`m mastering Python and finishing my 2nd project. Open to work!
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * 🖥️  You can find my CV [here](https://cv.hexlet.io/ru/resumes/4024)
